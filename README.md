@@ -5,7 +5,7 @@
         <h2><span style='font-size:50px;'>&#10024;</span>Description:</h2>
         <p>This is an app to make a sign in form through Formik.</p>
         <h2><span style='font-size:50px;'>&#128187;</span>How To Run:</h2>
-        <p>Simply open the HTML file. Input your credentials and there should be a "submission successful" alert, otherwise it will give you notifications in red to instruct you otherwise.</p>
+        <p>Input your credentials and there should be a "submission successful" alert, otherwise it will give you notifications in red to instruct you otherwise.</p>
         <h2><span style='font-size:50px;'>&#128679;</span>Roadmap to Future Improvements:</h2>
         <p>I would use this as an add on for other projects. I may even add on "remember me" or other features.</p>
         <h2><span style='font-size:50px;'>&#128220;</span>License:</h2>
